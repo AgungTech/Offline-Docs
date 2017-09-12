@@ -2,7 +2,8 @@ Offline-Docs
 ========
 Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM format.
 
-### Team @AgungTech/team/QuickStartTeam ###
+### Team ###
+@AgungTech/team/QuickStartTeam
 
 ### Usages ###
 1. :package: Download files
@@ -37,5 +38,7 @@ Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM fo
 ### Other Constributors ###
 Some of Websites are mirrored and generated with WinHTTrack Website Copier 3.49-2
 MANY THANKS for WinHTTrack to:
+
 Xavier Roche and other contributors
+
 Website : [http://www.httrack.com](http://www.httrack.com)
