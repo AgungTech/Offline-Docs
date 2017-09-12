@@ -3,14 +3,14 @@ Offline-Docs
 Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM format.
 
 ### Team ###
-@AgungTech/teams/QuickStartTeam
+@AgungTech
 
 ### Usages ###
 1. :package: Download files
 2. :package: Open file (.exe)
 3. :open_file_folder: Extract to your destination path
-4. :minidisc: Open extracted file (.iso) with explorer for windows 8, 8.1, 10 **or** mount with PowerISO or other program
-5. :ledger: for extracted file (.chm) open it directly
+4. :minidisc: Open extracted file (.iso) with explorer on windows 8, 8.1, 10 **or** mount with PowerISO or other program on windows XP, Vista, 7. Then open file index.html in Mounted file (.iso)
+5. :ledger: For extracted file (.chm), open it directly
 6. :beer: Enjoy.
 
 ### Download Links ###
