@@ -3,7 +3,7 @@ Offline-Docs
 Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM format.
 
 ### Team ###
-@AgungTech/team/QuickStartTeam
+@AgungTech/teams/QuickStartTeam
 
 ### Usages ###
 1. :package: Download files
