@@ -2,7 +2,7 @@ Offline-Docs
 ========
 Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM format.
 
-#### Team @AgungTech/team/QuickStartTeam ####
+### Team @AgungTech/team/QuickStartTeam ###
 
 ### Usages ###
 1. :package: Download files
@@ -13,7 +13,7 @@ Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM fo
 6. :beer: Enjoy.
 
 ### Download Links ###
-[![**Google Drive**][https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico]](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
+[![**Google Drive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico)](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
 
 ### References ###
 - [http://www.developer.mozilla.org](http://www.developer.mozilla.org) on *Mon, 11 Sep 2017 12:55:15 GMT*
