@@ -9,11 +9,12 @@ Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM fo
 2. :package: Open file (.exe)
 3. :open_file_folder: Extract to your destination path
 4. :minidisc: Open extracted file (.iso) with explorer for windows 8, 8.1, 10 **or** mount with PowerISO or other program
-5. :ledger: for extracted file (.chm) open it direcly
+5. :ledger: for extracted file (.chm) open it directly
 6. :beer: Enjoy.
 
 ### Download Links ###
-> [![**Google Drive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico)](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
+> [![**GoogleDrive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico)](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
+> [![**MediaFire**](https://www.mediafire.com/favicon.ico)](http://www.mediafire.com/?e96wo312ll0am)
 
 ### References ###
 - [http://www.developer.mozilla.org](http://www.developer.mozilla.org) on *Mon, 11 Sep 2017 12:55:15 GMT*
