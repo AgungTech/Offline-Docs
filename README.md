@@ -13,9 +13,9 @@ Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM fo
 6. :beer: Enjoy.
 
 ### Download Links ###
-> [![**GoogleDrive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_3.ico) \[Google Drive\]](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
+> [![**GoogleDrive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_3.ico)  \[Google Drive\]](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
 
-> [![**MediaFire**](https://www.mediafire.com/favicon.ico)\[Mediafire\]](http://www.mediafire.com/?e96wo312ll0am)
+> [![**MediaFire**](https://www.mediafire.com/favicon.ico)  \[Mediafire\]](http://www.mediafire.com/?e96wo312ll0am)
 
 ### References ###
 - [http://www.developer.mozilla.org](http://www.developer.mozilla.org) on *Mon, 11 Sep 2017 12:55:15 GMT*
