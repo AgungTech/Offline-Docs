@@ -13,10 +13,11 @@ Offline Documentations, Tutorials, References, etc. Repack in *.ISO and *.CHM fo
 6. :beer: Enjoy.
 
 ### Download Links ###
+```
 > [![**GoogleDrive**](https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_3.ico)](https://drive.google.com/open?id=0B52tTMh7m38ibHBqbVBOZERoUm8)
-***
-> [![**MediaFire**](https://www.mediafire.com/favicon.ico)](http://www.mediafire.com/?e96wo312ll0am)
 
+> [![**MediaFire**](https://www.mediafire.com/favicon.ico)](http://www.mediafire.com/?e96wo312ll0am)
+```
 ### References ###
 - [http://www.developer.mozilla.org](http://www.developer.mozilla.org) on *Mon, 11 Sep 2017 12:55:15 GMT*
 - [https://electron.atom.io/docs/](https://electron.atom.io/docs/) on *Mon, 11 Sep 2017 12:20:15 GMT*
